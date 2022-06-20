@@ -1,1 +1,1 @@
-SCORPION: 'python -m SCORPIONXSpam'
+SCORPION: python -m SCORPIONXSpam
