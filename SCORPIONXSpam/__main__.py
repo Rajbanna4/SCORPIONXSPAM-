@@ -4,7 +4,7 @@ import glob
 import logging
 from pathlib import Path
 from . import SP1, SP2, SP3, SP4, SP5, SP6, SP7, SP8, SP9, SP10
-from SORPIOMXSpam.utils import load_plugins
+from SCORPIONXSpam.utils import load_plugins
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
